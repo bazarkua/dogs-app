@@ -8,7 +8,7 @@
         "temperament": ["Cheerful", "Gentle", "Friendly", "Intelligent"],
         "hypoallergenic": "No",
         "intelligence": 7,
-        "photo": ""
+        "photo": "https://s36700.pcdn.co/wp-content/uploads/2019/01/Yellow-Labrador-Retriever-happy-in-grass--600x400.jpg.optimal.jpg"
     }, {
         "breed": "German Shepard",
         "breedType": "Purebred",
@@ -17,7 +17,7 @@
         "temperament": ["Corageous", "Intelligent", "Loyal", "Watchful"],
         "hypoallergenic": "No",
         "intelligence": 3,
-        "photo": ""
+        "photo": "https://dogtime.com/assets/uploads/gallery/german-shepherd-dog-breed-pictures/standing-7.jpg"
     }, {
         "breed": "Golden Retriever",
         "breedType": "Purebred",
@@ -26,7 +26,7 @@
         "temperament": ["Intelligent", "Kind", "Friendly", "Confident"],
         "hypoallergenic": "No",
         "intelligence": 4,
-        "photo": ""
+        "photo": "https://dogtime.com/assets/uploads/gallery/golden-retriever-dogs-and-puppies/golden-retriever-dogs-puppies-1.jpg"
     }, {
         "breed": "French Bulldog",
         "breedType": "Purebred",
@@ -35,7 +35,7 @@
         "temperament": ["Playful", "Sociable", "Friendly", "Lively", "Patient"],
         "hypoallergenic": "No",
         "intelligence": 58,
-        "photo": ""
+        "photo": "https://www.allthingsdogs.com/wp-content/uploads/2020/01/Mini-French-Bulldog-Feature-678x381.jpg"
 
     }, {
         "breed": "Bulldog",
@@ -45,7 +45,7 @@
         "temperament": ["Friendly", "Docile", "Willful", "Gregarious"],
         "hypoallergenic": "No",
         "intelligence": 77,
-        "photo": ""
+        "photo": "https://www.purinaproclub.com/sites/g/files/auxxlc346/files/styles/large/public/Resources_Dog%20Articles_Health_Line%2052_Thumb.jpg?itok=2VWaq41a"
 
     }, {
         "breed": "Beagle",
@@ -55,7 +55,7 @@
         "temperament": ["Gentle", "Intelligent", "Even Tempered", "Determined"],
         "hypoallergenic": "No",
         "intelligence": 72,
-        "photo": ""
+        "photo": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2016/06/24151048/Beagle-standing-in-a-frosty-field-on-a-cold-morning.jpg"
 
     }, {
         "breed": "Poodle",
@@ -65,7 +65,7 @@
         "temperament": ["Intelligent", "Faithful", "Trainable", "Instinctual"],
         "hypoallergenic": "Yes",
         "intelligence": 2,
-        "photo": ""
+        "photo": "https://www.rover.com/blog/wp-content/uploads/2019/12/top-french-poodle-dog-names-960x540.jpg"
 
     }, {
         "breed": "Rottweiler",
@@ -75,7 +75,7 @@
         "temperament": ["Intelligent", "Corageous", "Fearless", "Confident"],
         "hypoallergenic": "No",
         "intelligence": 9,
-        "photo": ""
+        "photo": "https://www.k9ofmine.com/wp-content/uploads/2021/06/Breed-information-Rottweilers.jpg"
 
     }, {
         "breed": "German Shorthaired Pointer",
@@ -95,7 +95,7 @@
         "temperament": ["Independent", "Intelligent", "Corageous", "Confident"],
         "hypoallergenic": "Yes",
         "intelligence": 27,
-        "photo": ""
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Duitse_staande_korthaar_10-10-2.jpg"
 
     }, {
         "breed": "Boxer",
@@ -105,7 +105,7 @@
         "temperament": ["Playful", "Friendly", "Devoted", "Loyal"],
         "hypoallergenic": "No",
         "intelligence": 48,
-        "photo": ""
+        "photo": "https://i.pinimg.com/564x/88/bb/33/88bb33fcb43091046848a4c9b2aa9207.jpg"
 
     }
 ]
